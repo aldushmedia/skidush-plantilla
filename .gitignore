@@ -1,0 +1,10 @@
+# Motor y cachés de SKIDUSH (se bajan en cada sesión)
+.skidush/
+__pycache__/
+# Videos pesados: se entregan en el chat, no van a git
+*.mp4
+*.mov
+*.MOV
+*.m4a
+*.wav
+videos/**/render/
