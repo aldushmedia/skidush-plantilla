@@ -8,3 +8,5 @@ __pycache__/
 *.m4a
 *.wav
 videos/**/render/
+videos/**/hoja*.jpg
+videos/**/*.ass
